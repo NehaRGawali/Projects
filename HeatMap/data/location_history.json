@@ -1,0 +1,34 @@
+{
+  "locations": [
+      {
+          "timestampMs": "1598154689000",
+          "latitudeE7": 372413701,
+          "longitudeE7": -1220941395,
+          "accuracy": 33
+      },
+      {
+          "timestampMs": "1598154725000",
+          "latitudeE7": 372413702,
+          "longitudeE7": -1220941396,
+          "accuracy": 34
+      },
+      {
+          "timestampMs": "1598154758000",
+          "latitudeE7": 372413703,
+          "longitudeE7": -1220941397,
+          "accuracy": 35
+      },
+      {
+          "timestampMs": "1598154802000",
+          "latitudeE7": 372413704,
+          "longitudeE7": -1220941398,
+          "accuracy": 36
+      },
+      {
+          "timestampMs": "1598154856000",
+          "latitudeE7": 372413705,
+          "longitudeE7": -1220941399,
+          "accuracy": 37
+      }
+  ]
+}
